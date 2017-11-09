@@ -1,2 +1,9 @@
 # learn.finereport
-learn.finereport
+
+
+## 安裝
+## 設置參數
+## 開始一個報表
+### 報表類型1
+### 報表類型2
+## 與`.Net`的結合做法
